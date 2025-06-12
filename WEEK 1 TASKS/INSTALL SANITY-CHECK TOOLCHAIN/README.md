@@ -50,3 +50,4 @@ riscv32-unknown-elf-gdb --version       # ✅ GDB 15.2
 
 
 ![TOOLCHAIN](TOOLCHAIN.png)
+
