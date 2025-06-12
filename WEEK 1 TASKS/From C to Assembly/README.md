@@ -95,12 +95,6 @@ lw	    s0, 8(sp)       # Restore frame pointer
 addi	sp, sp, 16      # Deallocate stack space
 jr	    ra              # Return to caller
 ```
----
-
-```vbnet
-
-Let me know if you'd like it saved as a `.md` file or need help uploading it to your GitHub repo.
-```
 
 ---
 ![From_C_to_Assembly](From_C_to_Assembly.png)
