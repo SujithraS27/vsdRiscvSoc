@@ -78,5 +78,6 @@ Operands — These specify the data the instruction works with:
 
 ---
 
-![Hex_Dump&Disassembly_1](Hex_Dump&Disassembly_1.png)
+
 ![Hex_Dump&Disassembly_2](Hex_Dump&Disassembly_2.png)
+![Hex_Dump&Disassembly_1](Hex_Dump&Disassembly_1.png)
