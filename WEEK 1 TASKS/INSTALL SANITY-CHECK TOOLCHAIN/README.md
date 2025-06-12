@@ -1,5 +1,3 @@
-# 🚀 RISC-V Lab Progress
-
 ## ✅ Task 1: Install & Sanity Check the Toolchain
 
 ### 🎯 Objective  
@@ -16,11 +14,17 @@ tar -xzf riscv-toolchain-rv32imac-x86_64-ubuntu.tar.gz
 # Move into the bin folder
 cd opt/riscv
 ls bin
+```
+
+---
 
 ### ➕ Add to PATH Temporarily
 
 ```bash
 export PATH=$HOME/riscv/bin:$PATH
+```
+
+---
 
 ### 🔒 Make PATH Permanent
 
@@ -32,6 +36,9 @@ export PATH=$HOME/riscv/bin:$PATH
 # Save and apply:
 source ~/.bashrc
 echo $PATH
+```
+
+---
 
 ### ✅ Verification
 
@@ -39,3 +46,4 @@ echo $PATH
 riscv32-unknown-elf-gcc --version       # ✅ GCC 14.2.0
 riscv32-unknown-elf-objdump --version   # ✅ Binutils 2.43.1
 riscv32-unknown-elf-gdb --version       # ✅ GDB 15.2
+```
