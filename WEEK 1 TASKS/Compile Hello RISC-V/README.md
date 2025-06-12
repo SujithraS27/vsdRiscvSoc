@@ -62,4 +62,4 @@ hello.elf: ELF 32-bit LSB executable, UCB RISC-V, RVC, soft-float ABI, version 1
 ```
 
 ---
-![Compile Hello, RISC-V](Compile Hello, RISC-V.png)
+![Compile Hello RISC-V](compile_hello_riscv.png)
