@@ -18,9 +18,13 @@ cd opt/riscv
 ls bin
 
 ### ➕ Add to PATH Temporarily
+
+```bash
 export PATH=$HOME/riscv/bin:$PATH
 
 ### 🔒 Make PATH Permanent
+
+```bash
 nano ~/.bashrc
 # Add the following line at the end:
 export PATH=$HOME/riscv/bin:$PATH
@@ -30,6 +34,8 @@ source ~/.bashrc
 echo $PATH
 
 ### ✅ Verification
+
+```bash
 riscv32-unknown-elf-gcc --version       # ✅ GCC 14.2.0
 riscv32-unknown-elf-objdump --version   # ✅ Binutils 2.43.1
 riscv32-unknown-elf-gdb --version       # ✅ GDB 15.2
