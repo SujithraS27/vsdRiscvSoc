@@ -47,3 +47,6 @@ riscv32-unknown-elf-gcc --version       # ✅ GCC 14.2.0
 riscv32-unknown-elf-objdump --version   # ✅ Binutils 2.43.1
 riscv32-unknown-elf-gdb --version       # ✅ GDB 15.2
 ```
+
+
+![Toolchain Verification](TOOLCHAIN.png)
