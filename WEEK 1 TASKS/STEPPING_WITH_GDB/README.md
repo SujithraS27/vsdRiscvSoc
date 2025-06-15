@@ -28,6 +28,6 @@ Use `riscv32-unknown-elf-gdb` to debug your RISC-V ELF binary by setting a break
 - ✅ Assembly instructions inspected
 - ✅ Register `a0` and memory values examined
 - ✅ Successfully traced execution step-by-step
-
+![Task-5](Task-5)
 
 ---
