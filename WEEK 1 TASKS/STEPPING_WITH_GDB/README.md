@@ -31,4 +31,4 @@ Use `riscv32-unknown-elf-gdb` to debug your RISC-V ELF binary by setting a break
 
 
 ---
-![Task-5](Task-5.png)
+![STEPPING_WITH_GDB](Task-5.png)
